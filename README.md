@@ -1,6 +1,6 @@
-# Environment Setup for Text Classification with BERT and PyTorch
+# Environment Setup for CS8930 Class Labs with PyTorch
 
-This guide will walk you through setting up the environment on your machine to build a simple text classification model using BERT (Bidirectional Encoder Representations from Transformers) and PyTorch.
+This guide will walk you through setting up the environment on your machine to work on CS8930 class labs using PyTorch.
 
 ## Prerequisites
 
