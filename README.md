@@ -16,8 +16,8 @@ Before you begin, ensure you have the following installed on your machine:
 First, clone the repository containing the code for building the text classification model:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/tew9/CS8321-labs.git
+cd CS8321-labs
 ```
 
 ### 2. Create Conda Environment
