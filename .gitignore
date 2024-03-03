@@ -21,3 +21,8 @@ env/
 node_modules/
 
 *.txt
+*.csv
+*.pdf
+
+.DS_Store
+*.bin

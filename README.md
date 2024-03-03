@@ -33,7 +33,7 @@ conda env create -f environment.yml
 Activate the Conda environment to use the installed dependencies.
 
 ```bash
-conda activate pytorch-bert-classification
+conda activate pytorch
 ```
 
 ### 4. Run the Code
